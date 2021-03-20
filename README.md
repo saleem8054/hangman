@@ -1,1 +1,4 @@
-**python3 main.py**
+### Usage
+
+```
+python3 main.py
